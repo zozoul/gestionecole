@@ -1,3 +1,3 @@
 <?php
 
-echo 'test tout le monde test';
+echo 'test tout le monde test variable';
